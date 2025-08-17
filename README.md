@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-This image in within osTicket 
+This image is within osTicket showing the Roles tab where you can assign different permissions to your agents.
 </p>
 <br />
 
